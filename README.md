@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Welcome! I'm Timothy Berlanga
 
-<!--
-**TimB21/TimB21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Engineer | 📊 Data Scientist | 📈 Machine Learning Practitioner
 
-Here are some ideas to get you started:
+I am an enthusiastic and results-driven software engineer passionate about leveraging data and machine learning to solve complex, real-world challenges. My expertise spans sports analytics, predictive modeling, web development, and database management. Through my projects, I integrate multiple technologies to deliver impactful solutions that drive efficiency and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Projects
+
+### 🎯 **Better Picks (CS Capstone Project)**
+A data-driven sports betting recommendation system that applies machine learning to analyze NFL & NBA player stats. This project integrates:
+- **Technologies:** Python, SQL, APIs, React.js
+- **Core Focus:** Feature engineering, predictive modeling, and user-friendly dashboards
+
+### 🏃‍♂️ **Marathon Training Performance & Recovery Tracker**
+A Python-based analysis tool that utilizes Pandas, Matplotlib, Seaborn, and ML clustering techniques to track and enhance running performance. 
+- **Metrics Tracked:** Heart rate, pace, distance, performance trends
+
+### 🕶️ **Lens Rating Algorithms**
+A Java Spring Boot application that evaluates lens quality based on statistical factors such as:
+- **Metrics:** R², melatonin production factor, glare reduction, and eye protection factor
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Java, SQL, JavaScript
+- **Machine Learning:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Web Development:** React.js, Java Spring Boot, SQL Databases
+- **DevOps & Tools:** Docker, GitHub Codespaces, API Integration
