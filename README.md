@@ -1,4 +1,4 @@
-# 👋 Welcome! I'm Timothy Berlanga
+# Welcome! I'm Timothy Berlanga
 
 ## 💻 Software Engineer | 📊 Data Scientist | 📈 Machine Learning Practitioner
 
