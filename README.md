@@ -8,7 +8,7 @@ I am an enthusiastic and results-driven software engineer passionate about lever
 
 ## Current Projects
 
-### **[Better Picks (Spftware Engineering Capstone Project)](https://github.com/kadetownsend4/ML-Betting)**
+### **[Better Picks (Software Engineering Capstone Project)](https://github.com/kadetownsend4/ML-Betting)**
 A data-driven sports betting recommendation system that applies machine learning to analyze NFL & NBA player stats. This project integrates:
 - **Technologies:** Python, SQL, APIs, React.js
 - **Core Focus:** Feature engineering, predictive modeling, and user-friendly dashboards
